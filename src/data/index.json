@@ -1,0 +1,53 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Dedicated to creating seamless and interactive front-end solutions that engage users and enhance digital presence. and blending proficiency in HTML, CSS, JavaScript, React"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "MERN stack developer specializing in building web applications, blending proficiency in MongoDB, Express.js, and Node.js for exceptional user experiences."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Creative UI designer crafting delightful and effective digital interfaces that seamlessly fuse aesthetics with functionality."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Web Development",
+      "description": "Skilled web developer proficient in creating dynamic, responsive, and feature-rich websites that enhance user engagement and drive business growth."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/web.PNG",
+      "title": "Website",
+      "description": "I created website utilizing HTML and CSS, emphasizing a design. The project showcases my expertise in structuring content with HTML for optimal accessibility and employing CSS to style elements, ensuring a seamless user experience across devices. The website adapts elegantly to various screen sizes.",
+      "link": "View In Github"
+
+    },
+    {
+      "id": "2",
+      "src": "./img/todo.PNG",
+      "title": "TODO-Lists",
+      "description": "This project showcases my proficiency in JavaScript, enabling users to easily create, update, and remove tasks on a real-time interface.",
+      "link": "View In Github"
+   
+    },
+    {
+      "id": "3",
+      "src": "./img/ott.PNG",
+      "title": "OTT App",
+      "description": "I designed and developed an intuitive OTT application using React.js, showcasing seamless CRUD operations for managing a movie database. Users can  filter through a  movie collection, add favorites and remove favorites. users can view movie details by simply clicking on a specific movie.",
+      "link": "View In Github"
+    }
+  ]
+}
