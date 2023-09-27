@@ -8,10 +8,11 @@ export default function AboutMe() {
         <div className="hero--section--content">
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Hi , I am Raju from Bangalore, India. I am a MERN full-stack
-            developer with entry level experience ready to take challenge that
-            enhances my skills and knowledge. I'll develope
-            RESTFul APIs, creating UI, and many more....
+            Hello, I'm Raju, a dedicated software developer with a strong
+            commitment to creating innovative and efficient solutions through
+            code. My primary focus revolves around the development of scalable
+            applications and utilizing cutting-edge technologies to produce
+            meaningful and influential outcomes.
           </p>
         </div>
       </div>
