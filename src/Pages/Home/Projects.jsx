@@ -24,7 +24,7 @@ export default function MyPortfolio() {
                 fill="currentColor"
               />
             </svg>
-            <a href="https://github.com/rajuguttedar">Visit My GitHub</a>
+            <a href="https://github.com/rajuguttedar" style={{textDecoration:"none"}}>Visit My GitHub</a>
             
           </button>
         </div>
